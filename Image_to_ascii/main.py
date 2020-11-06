@@ -27,7 +27,7 @@ def assignAsciiCharacter(grayscale_value):
     return ascii_characters[index]
 
 # open the image and store the image in a variable
-image = Image.open('pog.jpg')
+image = Image.open('kanye.png')
 
 # write ascii image to text file
 file = open('ascii.txt', 'w')
